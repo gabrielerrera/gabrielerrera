@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**gabrielerrera/gabrielerrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profil
 
 My name is Gabriel, 27 years old and currently living in Americana-SP, Brazil .
 I like sciense, math and programming.
