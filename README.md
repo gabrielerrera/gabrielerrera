@@ -5,7 +5,7 @@ My name is Gabriel, 27 years old and currently living in Americana-SP, Brazil.
 
 I like sciense, math and programming.
 
-Sometimes I try teach physics for people.
+Sometimes I try to teach physics to people.
 
 In my free time I play tennis and capoeira.
 
