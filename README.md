@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Gabriel, 29 years old and currently living in Americana-SP, Brazil.
+My name is Gabriel, 30 years old and currently living in Americana-SP, Brazil.
 
 I like sciense, math and programming.
 
